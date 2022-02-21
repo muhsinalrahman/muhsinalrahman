@@ -3,7 +3,6 @@
 ![Youtube Channel](https://img.shields.io/badge/Muhsinalr-red?&style=social&logo=youtube)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvlrvvtW8AIHlRQRJbFeg0w)
 ![Twitter Follow](https://img.shields.io/twitter/follow/muhsinalr?style=social)
-![GitHub followers](https://img.shields.io/github/followers/muhsinalrahman?style=social)
 
 ### Bismillah
 
@@ -49,6 +48,6 @@ Saya tidak pandai menulis dan mengarang bebas dengan kata-kata yang indah nan me
 
 [website]: https://muhsinalr.com
 [instagram]: https://instagram.com/muhsinalr
-[telegram]: https://telegram.me/muhsinalr
+[telegram]: https://telegram.me/kreasisaya
 [twitter]: https://twitter.com/muhsinalr
 [youtube]: https://www.youtube.com/channel/UCvlrvvtW8AIHlRQRJbFeg0w
